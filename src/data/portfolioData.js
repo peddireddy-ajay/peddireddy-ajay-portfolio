@@ -27,7 +27,7 @@ export const academy = {
 export const socialLinks = {
   github: "https://github.com/PeddireddyAjay",
   linkedin: "https://www.linkedin.com/in/peddireddy-ajay-55a221257",
-  instagram: "",
+  instagram: "https://instagram.com",
 };
 
 export const heroContent = {
