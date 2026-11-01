@@ -33,8 +33,8 @@ function Footer() {
       </div>
 
       {/* Middle: huge centred h2 with brandName.toLowerCase() */}
-      <div className="py-20 md:py-24 overflow-hidden text-center">
-        <h2 className="text-[18vw] md:text-[16vw] leading-none font-sans font-bold tracking-tighter lowercase select-none text-[#f4f4f4] whitespace-nowrap">
+      <div className="py-14 md:py-20 overflow-hidden text-center flex items-center justify-center w-full px-2">
+        <h2 className="text-[10.5vw] sm:text-[9.5vw] md:text-[8.5vw] lg:text-[7.5vw] xl:text-[7vw] leading-none font-sans font-bold tracking-tighter lowercase select-none text-[#f4f4f4] whitespace-nowrap">
           {personalInfo.brandName.toLowerCase()}
         </h2>
       </div>
