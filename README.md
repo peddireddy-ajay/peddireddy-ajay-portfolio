@@ -2,7 +2,7 @@
 
 A modern, responsive single-page developer portfolio showcasing data analytics projects, technical skillsets, and work experience.
 
-**Live site:** https://YOUR-SITE-URL/
+**Live site:** https://peddireddy-ajay-portfolio.vercel.app/
 
 Built during the placement training program at [TAP Academy](https://thetapacademy.com/) (full-stack development, AI and augmented reality training).
 
