@@ -154,9 +154,13 @@ export const education = {
 };
 
 export const footerContent = {
-  taglines: ["Data Analyst", "Python · SQL · Power BI", "Transforming Data into Actionable Insights"],
-  credential: "B.E Computer Science",
-  copyright: `© ${new Date().getFullYear()} Peddireddy Ajay | Built with React`,
+  taglines: [
+    "DATA ANALYST",
+    "PYTHON · MYSQL · POWER BI · TABLEAU",
+    "TRANSFORMING DATA INTO DECISIONS",
+  ],
+  credential: "B.E COMPUTER SCIENCE",
+  copyright: `© 2026 PEDDIREDDY AJAY | Built with React`,
 };
 
 // EmailJS — read from .env.local (variables must start with VITE_)
