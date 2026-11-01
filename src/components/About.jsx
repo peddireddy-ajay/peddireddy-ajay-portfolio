@@ -76,7 +76,7 @@ function About() {
                   {/* Profile portrait photo */}
                   <img
                     src={stackImage}
-                    alt={personalInfo.name}
+                    alt="Peddireddy Ajay — Data Analyst, TAP Academy student"
                     className="aspect-[3/4] rounded-xl object-cover object-top w-full shadow-inner flex-grow"
                   />
                 </div>
